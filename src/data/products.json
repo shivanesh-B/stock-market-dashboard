@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Leather Handbag",
+      "category": "accessories",
+      "description": "Stylish leather handbag with ample storage space.",
+      "price": 7999,
+      "oldPrice": 9999,
+      "image": "https://images.unsplash.com/photo-1512201078372-9c6b2a0d528a?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 4.5,
+      "author":"admin"
+    },
+    {
+      "id": 2,
+      "name": "Evening Gown",
+      "category": "dress",
+      "description": "Elegant evening gown for special occasions.",
+      "price": 1499,
+      "oldPrice": 1999,
+      "image": "https://img.freepik.com/premium-photo/elegance-unveiled-captivating-display-beautiful-luxurious-evening-gown-gracefully-adorning-mannequin-epitomizing-timeless-style-opulence-glamorous-chic-affair_771426-55145.jpg?w=740",
+      "color": "red",
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "Gold Necklace",
+      "category": "jewellery",
+      "description": "Exquisite gold necklace with intricate design.",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1631097969294-c38afba59496?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "gold",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Matte Lipstick",
+      "category": "cosmetics",
+      "description": "Long-lasting matte lipstick in various shades.",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1631214500115-598fc2cb8d2d?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "red",
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Silk Scarf",
+      "category": "accessories",
+      "description": "Luxurious silk scarf with vibrant colors.",
+      "price": 2999,
+      "oldPrice": 3999,
+      "image": "https://images.unsplash.com/photo-1485527691629-8e370684924c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "blue",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Cocktail Dress",
+      "category": "dress",
+      "description": "Chic cocktail dress for events.",
+      "price": 8999,
+      "image": "https://www.shutterstock.com/image-photo/burgundy-bridesmaid-dress-red-vintage-600nw-2015754668.jpg",
+      "color": "white",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Diamond Earrings",
+      "category": "jewellery",
+      "description": "Sparkling diamond earrings that add elegance to any outfit.",
+      "price": 2999,
+      "oldPrice": 3499,
+      "image": "https://images.unsplash.com/photo-1587467442586-7bcc51828a10?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "silver",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Foundation",
+      "category": "cosmetics",
+      "description": "High-coverage foundation for a flawless finish.",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1599733589046-10c005739ef9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "beige",
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "name": "Sunglasses",
+      "category": "accessories",
+      "description": "Trendy sunglasses with UV protection.",
+      "price": 4999,
+      "image": "data:image/jpeg;base64,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",
+      "color": "black",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Casual Pants",
+      "category": "dress",
+      "description": "Comfortable maxi dress for casual outings.",
+      "price": 5999,
+      "oldPrice": 7999,
+      "image": "https://i.pinimg.com/736x/15/93/58/15935800c141ed63818029eae177a304.jpg",
+      "color": "green",
+      "rating": 4.2
+    }
+  ]
